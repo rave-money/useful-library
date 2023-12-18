@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="candle-collector" target="17" />
+      <module name="candle-collector.domain" target="17" />
+      <module name="candle-collector.domain.main" target="17" />
+      <module name="candle-collector.domain.test" target="17" />
+      <module name="candle-collector.http" target="17" />
+      <module name="candle-collector.http.main" target="17" />
+      <module name="candle-collector.http.test" target="17" />
+      <module name="candle-collector.kucoin" target="17" />
+      <module name="candle-collector.kucoin.main" target="17" />
+      <module name="candle-collector.kucoin.test" target="17" />
+      <module name="candle-collector.main" target="17" />
+      <module name="candle-collector.rdb" target="17" />
+      <module name="candle-collector.rdb.main" target="17" />
+      <module name="candle-collector.rdb.test" target="17" />
+      <module name="candle-collector.redis" target="17" />
+      <module name="candle-collector.redis.main" target="17" />
+      <module name="candle-collector.redis.test" target="17" />
+      <module name="candle-collector.test" target="17" />
+      <module name="candle-collector.upbit" target="17" />
+      <module name="candle-collector.upbit.main" target="17" />
+      <module name="candle-collector.upbit.test" target="17" />
+      <module name="candle-collector.worker" target="17" />
+      <module name="candle-collector.worker.main" target="17" />
+      <module name="candle-collector.worker.test" target="17" />
+      <module name="encode" target="17" />
+      <module name="encode.main" target="17" />
+      <module name="encode.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
