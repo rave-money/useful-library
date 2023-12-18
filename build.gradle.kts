@@ -114,6 +114,25 @@ subprojects {
                     }
                 }
             }
+
+            maven {
+                name = "rave"
+                isAllowInsecureProtocol = true
+                setUrl("http://rave.money:8081/repository/maven-releases")
+                credentials {
+                    username = prop.getProperty("ossrh.username")
+                    password = prop.getProperty("ossrh.password")
+                }
+            }
+            maven {
+                name = "local"
+                isAllowInsecureProtocol = true
+                setUrl("http://localhost:8081/repository/maven-releases")
+                credentials {
+                    username = prop.getProperty("maven.credentials.username")
+                    password = prop.getProperty("maven.credentials.password")
+                }
+            }
         }
     }
 
