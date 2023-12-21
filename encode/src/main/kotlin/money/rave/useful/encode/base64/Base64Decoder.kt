@@ -1,6 +1,6 @@
-package money.rave.usefule.encode.base64
+package money.rave.useful.encode.base64
 
-import money.rave.usefule.encode.Decoder
+import money.rave.useful.encode.Decoder
 
 class Base64Decoder(
     private val padding: Char = '=',

@@ -1,4 +1,4 @@
-package money.rave.usefule.encode.base64
+package money.rave.useful.encode.base64
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertContentEquals

@@ -1,6 +1,6 @@
-package money.rave.usefule.encode.hex
+package money.rave.useful.encode.hex
 
-import money.rave.usefule.encode.Encoder
+import money.rave.useful.encode.Encoder
 
 class HexEncoder : Encoder {
 

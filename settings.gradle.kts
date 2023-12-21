@@ -9,4 +9,5 @@ rootProject.name = "useful-library"
 include(
     "encode",
     "hash",
+    "logging",
 )

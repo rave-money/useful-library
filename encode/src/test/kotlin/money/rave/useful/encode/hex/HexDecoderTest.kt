@@ -1,4 +1,4 @@
-package money.rave.usefule.encode.hex
+package money.rave.useful.encode.hex
 
 import org.junit.jupiter.api.Test
 import kotlin.test.assertContentEquals

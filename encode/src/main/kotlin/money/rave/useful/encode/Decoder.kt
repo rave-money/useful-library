@@ -1,4 +1,4 @@
-package money.rave.usefule.encode
+package money.rave.useful.encode
 
 interface Decoder {
     fun decode(data: ByteArray): ByteArray

@@ -1,4 +1,4 @@
-package money.rave.usefule.hash
+package money.rave.useful.hash
 
 interface Hash {
 
