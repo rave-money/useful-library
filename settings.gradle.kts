@@ -7,5 +7,6 @@ pluginManagement {
 }
 rootProject.name = "useful-library"
 include(
-    "encode"
+    "encode",
+    "hash",
 )
